@@ -1,3 +1,5 @@
 # RSA-Factoring-Challenge
-
-Private key and public key generation implementation :+1:
+* Factorization
+* Public key
+* Private key
+* :+1:
